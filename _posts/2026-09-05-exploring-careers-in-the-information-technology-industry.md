@@ -3,6 +3,7 @@ layout: post
 title: "Exploring Careers in the Information Technology Industry"
 date: 2026-09-05
 categories: [IT Careers, Career Guide]
+permalink: /it-career-introduction/
 ---
 
 # Exploring Careers in the Information Technology Industry
