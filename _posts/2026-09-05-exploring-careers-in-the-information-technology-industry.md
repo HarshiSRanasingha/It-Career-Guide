@@ -12,7 +12,7 @@ permalink: /it-career-introduction/
 
 ---
 
-![IT Career Paths]({{ "/assets/images/part-1-it-careers.jpeg" | relative_url }})
+![IT Career Paths]({{ "/assets/images/career.jpeg" | relative_url }})
 
 
 ## Introduction
