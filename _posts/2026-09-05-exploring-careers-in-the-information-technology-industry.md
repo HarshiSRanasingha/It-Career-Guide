@@ -6,8 +6,6 @@ categories: [IT Careers, Career Guide]
 permalink: /it-career-introduction/
 ---
 
-# Exploring Careers in the Information Technology Industry
-
 ## Part 1: A Complete Introduction to IT Career Paths
 
 ---
