@@ -3,7 +3,7 @@ layout: home
 title: IT Career Guide
 ---
 
-![Exploring Careers in Information Technology]({{ "/assets/images/home.jpeg" | relative_url }})
+![Exploring Careers in Information Technology]({{ "/assets/images/home-cover.jpeg" | relative_url }})
 
 ## 📚 Featured Articles
 
