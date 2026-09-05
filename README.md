@@ -1,5 +1,5 @@
 # It-Career-Guide
-
+visit : https://harshisranasingha.github.io/It-Career-Guide/
 
 # 💻 Exploring Careers in Information Technology
 
@@ -55,8 +55,6 @@ This project aims to:
 
 An overview of the major career opportunities available in the Information Technology industry, including different roles, required skills, education, and future possibilities.
 
-🔗 **[Read Part 1](https://YOUR-USERNAME.github.io/it-career-guide/it-career-introduction/)**
-
 ---
 
 ### 02 · Software Engineering
@@ -64,8 +62,6 @@ An overview of the major career opportunities available in the Information Techn
 **Building the Digital World**
 
 Explore software engineering, including different engineering roles, technical skills, programming languages, development tools, career progression, challenges, and future opportunities.
-
-🔗 **[Read Part 2](https://YOUR-USERNAME.github.io/it-career-guide/software-engineering/)**
 
 ---
 
@@ -139,7 +135,7 @@ This project is built using:
 
 The article series is published using **GitHub Pages**.
 
-🔗 **[Visit the IT Career Guide](https://YOUR-USERNAME.github.io/it-career-guide/)**
+🔗 **[Visit the IT Career Guide](https://harshisranasingha.github.io/It-Career-Guide/)**
 
 > Replace `YOUR-USERNAME` with your GitHub username.
 
