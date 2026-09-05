@@ -3,6 +3,8 @@ layout: home
 title: IT Career Guide
 ---
 
+![Exploring Careers in Information Technology]({{ "/assets/images/home.jpeg" | relative_url }})
+
 ## 📚 Featured Articles
 
 Explore a structured series of articles covering **IT career paths, software development, emerging technologies, and professional growth**.
