@@ -5,7 +5,7 @@
 
 > **A structured article series exploring career paths, skills, technologies, and opportunities across the Information Technology industry.**
 
-![IT Career Guide](assets/images/home-cover.jpeg)
+![IT Career Guide](assets/images/readme.jpeg)
 
 ---
 
