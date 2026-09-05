@@ -15,4 +15,4 @@ This series explores different career paths in the Information Technology indust
 
 An introduction to the major career paths available in the IT industry.
 
-[Read Part 1 →](/it-career-guide/2026/09/05/introduction-to-it-careers/)
+[Read Part 1 →]({{ "/it-career-introduction/" | relative_url }})
