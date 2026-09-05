@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Software Engineering – Building the Digital World"
+title: "Exploring Careers in the Information Technology Industry - Software Engineering"
 date: 2026-09-05
 categories: [IT Careers, Software Engineering]
 permalink: /software-engineering/
 ---
 
-# Exploring Careers in the Information Technology Industry
 
 ## Part 2: Software Engineering – Building the Digital World
 
