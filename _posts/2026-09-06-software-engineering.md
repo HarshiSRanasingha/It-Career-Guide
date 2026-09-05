@@ -12,6 +12,8 @@ permalink: /software-engineering/
 
 ---
 
+![Software Engineering]({{ "/assets/images/software.jpeg" | relative_url }})
+
 ## Introduction
 
 Software engineering is one of the most popular and important career paths in the Information Technology industry. Almost every application, website, mobile app, banking system, game, and digital service we use today depends on software engineers.
